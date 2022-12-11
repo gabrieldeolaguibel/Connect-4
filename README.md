@@ -8,3 +8,4 @@ Datastructures:
 Algorithms:
 - Stacks: Push and peek
 - Multidimensional arrays: Horizaonal scan, Vertial scan, and Diagonal scan
+- gameplay recursion
