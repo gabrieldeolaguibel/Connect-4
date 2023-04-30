@@ -34,7 +34,7 @@ To get started with the Connect 4 game, follow these steps:
 
 1. Clone the repository:
 2. Change to the project directory:
-2. Change to the project directory:
+3. Install dependencies:
 4. Run the game:
 
 
