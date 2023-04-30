@@ -1,4 +1,4 @@
-from connect4functions import *
+from game_functions import *
 
 # Main program
 def main():
