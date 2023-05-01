@@ -33,10 +33,20 @@ The project contains the following files:
 To get started with the Connect 4 game, follow these steps:
 
 1. Clone the repository:
+
+ 		git clone https://github.com/gabrieldeolaguibel/Connect-4
+
 2. Change to the project directory:
+
+ 		cd Connect-4
+
 3. Install dependencies:
+
+ 		pip install -r requirements.txt
+
 4. Run the game:
 
+ 		python main.py
 
 ## How to Play
 
