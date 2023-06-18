@@ -1,4 +1,4 @@
-# Connect 4 Games
+# Connect 4 Game
 
 A Connect 4 game implementation using data structures and algorithms as a class final project. The aim of this project is to build a game that utilizes efficient algorithms and data structures.
 
